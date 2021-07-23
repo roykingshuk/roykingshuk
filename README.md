@@ -3,13 +3,13 @@
 
 
 
-## ⚡ GitHub Stats :
+<!--## ⚡ GitHub Stats :
 
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedevilfury&theme=radical&layout=compact&show_icons=true)](https://github.com/Whitedevilfury)&nbsp;
 [![Kingshuk Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitedevilfury&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/Whitedevilfury)
-</div>
+</div>-->
 
 ---
 
