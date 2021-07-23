@@ -1,10 +1,6 @@
 ### Hi there, I am Kingshuk Roy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-<div align=left> 
-
-[![GitHub Readme Views](https://komarev.com/ghpvc/?username=Whitedevilfury&color=blue&style=flat&label=VIEWS)](https://github.com/Whitedevilfury)
-</div>
 
 
 ## ⚡ GitHub Stats :
@@ -12,7 +8,7 @@
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedevilfury&theme=radical&layout=compact&show_icons=true)](https://github.com/Whitedevilfury)&nbsp;
-[![Kingshuk Roy's GitHub stats](https://github-readme-stats-shubhayu-64.vercel.app/api?username=Whitedevilfury&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/Whitedevilfury)
+[![Kingshuk Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitedevilfury&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/Whitedevilfury)
 </div>
 
 ---
