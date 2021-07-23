@@ -4,8 +4,7 @@
 
 🧰 Tech Stack
 --
-<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="JavaScript Logo" width="50" height="50"/>
----
+<img src=https://camo.githubusercontent.com/cdbd0ba439365fba9d1b72e05b6d7e93828f9a9cce4a71346a1a11ed6216261f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f632d70726f6772616d6d696e672e706e67 alt="C Logo" width="50" height="50"/>
 
 
 <!--
