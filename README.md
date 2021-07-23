@@ -4,8 +4,7 @@
 
 🧰 Tech Stack
 --
-<img src=https://camo.githubusercontent.com/cdbd0ba439365fba9d1b72e05b6d7e93828f9a9cce4a71346a1a11ed6216261f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f632d70726f6772616d6d696e672e706e67 alt="C Logo" width="50" height="50"/>
-
+<img src=https://camo.githubusercontent.com/cdbd0ba439365fba9d1b72e05b6d7e93828f9a9cce4a71346a1a11ed6216261f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f632d70726f6772616d6d696e672e706e67 alt="C Logo" width="50" height="50"/><img src = https://camo.githubusercontent.com/04a68d28c34b095402af3f66b15a65b9802c0d7ffdfa813635f65a9dbb18c16e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67 alt = "C++" width = "50" height = "50"/>  
 
 <!--
 **Whitedevilfury/Whitedevilfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
