@@ -4,19 +4,37 @@
 
 🧰 Tech Stack
 --
-<img src=https://camo.githubusercontent.com/cdbd0ba439365fba9d1b72e05b6d7e93828f9a9cce4a71346a1a11ed6216261f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f632d70726f6772616d6d696e672e706e67 alt="C Logo" width="50" height="50"/><img src = https://camo.githubusercontent.com/04a68d28c34b095402af3f66b15a65b9802c0d7ffdfa813635f65a9dbb18c16e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67 alt = "C++" width = "50" height = "50"/>  
+<div align=center>  
 
-<!--
-**Whitedevilfury/Whitedevilfury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
+<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
+<img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
+<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
+<img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
+<img src="https://img.icons8.com/color/48/000000/pycharm.png" title="Pycharm" >
+<!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >-->
+</div>
+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Connect with me
+--
+
+<div align=center>
+
+<a href="https://twitter.com/Kingshu26924326" alt="@Kingshuk twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
+<a href="https://www.linkedin.com/in/shubhayumajumdar/" alt="Shubhayu Majumdar | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://www.instagram.com/shubhayu.majumdar/" alt="shubhayu.majumdar | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
+</div>
+  
+
+
+  
+
+
+
