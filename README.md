@@ -16,17 +16,23 @@
 ## 🧰 Tech Stack : 
 <div align=center>  
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
 <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
+  
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
-<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" title="Pycharm" >
-<img src="https://img.icons8.com/color/48/000000/github--v1.png" title="Github" >
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
+  
+<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
+  
+  
+  
 <!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >-->
+<img src="https://img.icons8.com/color/48/000000/java.png" title="Java" >
+<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > -->
 </div>
 
 ---
