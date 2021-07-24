@@ -1,6 +1,10 @@
 ### Hi there, I am Kingshuk Roy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-
+---
+<div align=center>
+  
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479payps8c8spoxbwaw2hq2xq1h7kq4mnkmvrdqr1q&rid=giphy.gif&ct=g" width =60%>
+</div>
 <!--## ⚡ GitHub Stats :
 
 <div align=center>
