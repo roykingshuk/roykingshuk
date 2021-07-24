@@ -25,8 +25,8 @@
 <img src="https://img.icons8.com/color/48/000000/pycharm.png" title="Pycharm" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
-<img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
+<!--<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
+<img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" > -->
  
   
   
