@@ -30,6 +30,8 @@
 <!--<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
 <img src="https://img.icons8.com/fluent/2x/swift.png" title="Swift" height=52 width=51>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" >
+<img src="https://img.icons8.com/windows/2x/26e07f/django.png" title="Django" height=46 width=46 >
 <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" title="C#" height=46 width=46 > -->  
 <!--<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
