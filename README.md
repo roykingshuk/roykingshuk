@@ -22,12 +22,13 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >  
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
-<img src="https://img.icons8.com/color/48/000000/pycharm.png" title="Pycharm" >
+<img src="https://img.icons8.com/color/48/000000/notepad++.png" title="Notepad++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
-<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
+
   
   
 <!--<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
+<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
 <img src="https://img.icons8.com/fluent/2x/swift.png" title="Swift" height=52 width=51>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" >
