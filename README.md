@@ -5,10 +5,10 @@
   
 <img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479payps8c8spoxbwaw2hq2xq1h7kq4mnkmvrdqr1q&rid=giphy.gif&ct=g">
 </div>
-<!--## ⚡ GitHub Stats :
 
-<div align=center>
 
+<!--<div align=center>
+## ⚡ GitHub Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitedevilfury&theme=radical&layout=compact&show_icons=true)](https://github.com/Whitedevilfury)&nbsp;
 [![Kingshuk Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Whitedevilfury&show_icons=true&theme=gruvbox&hide_border=true)](https://github.com/Whitedevilfury)
 </div>-->
@@ -18,12 +18,12 @@
 ## 🧰 Tech Stack : 
 <div align=center>  
 
-<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >  
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/notepad++.png" title="Notepad++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
+<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
 
   
   
