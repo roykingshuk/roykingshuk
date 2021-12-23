@@ -21,10 +21,12 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >  
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
-<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46 >
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" title="ATOM" height=48 width=48 >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
+
+  
  
 
   
