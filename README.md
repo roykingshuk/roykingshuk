@@ -18,13 +18,15 @@
 ## 🧰 Tech Stack : 
 <div align=center>  
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >  
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" title="ATOM" height=48 width=48 >
+<img src="https://img.icons8.com/color/48/000000/java.png" title="Java" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" title="Atom" height=48 width=48 >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
+
 
   
  
@@ -40,7 +42,7 @@
 <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" title="C#" height=46 width=46 > 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
-<img src="https://img.icons8.com/color/48/000000/java.png" title="Java" >
+
 <img src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin" height=46 width=45>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > -->
