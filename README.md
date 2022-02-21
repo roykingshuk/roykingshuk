@@ -27,8 +27,7 @@
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
 
-
-
+  
   
  
 
@@ -46,7 +45,10 @@
 
 <img src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin" height=46 width=45>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > -->
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > 
+  
+<img src="https://img.icons8.com/color/50/mongodb.png" title="MongoDB">
+<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" title="SQL" > -->
 </div>
 
 ---
