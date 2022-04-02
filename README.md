@@ -1,4 +1,5 @@
-### Hi, I am Kingshuk Roy ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> 
+### I am Kingshuk Roy, a second year B.Tech CSE(AI & ML) student at 𝐓𝐞𝐜𝐡𝐧𝐨 𝐈𝐧𝐝𝐢𝐚.
 
 ---
 <div align=center>
@@ -21,33 +22,27 @@
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" title="Atom" height=48 width=48 >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/55/java-coffee-cup-logo--v1.png" title="Java">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
+  
 
-  
-  
  
 
   
   
 <!--<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
-<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=46 width=46>
 <img src="https://img.icons8.com/fluent/2x/swift.png" title="Swift" height=52 width=51>
-<img src="https://img.icons8.com/color/48/000000/notepad++.png" title="Notepad++" >
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap" >
 <img src="https://img.icons8.com/windows/2x/26e07f/django.png" title="Django" height=46 width=46 >
 <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" title="C#" height=46 width=46 > 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
-
 <img src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin" height=46 width=45>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > 
-  
-<img src="https://img.icons8.com/color/50/mongodb.png" title="MongoDB">
+<img src = "https://img.icons8.com/fluency/49/node-js.png" title = "Node.js">
 <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" title="SQL" > -->
 </div>
 
