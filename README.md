@@ -26,6 +26,7 @@
 <img src="https://img.icons8.com/color/55/java-coffee-cup-logo--v1.png" title="Java">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
+  <img src="https://img.icons8.com/cute-clipart/47/canva-app.png" title = "Canva">
   
 
  
