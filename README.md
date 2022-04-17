@@ -1,5 +1,5 @@
 ### Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> 
-### I am Kingshuk Roy, a second year B.Tech CSE(AI & ML) student at 𝐓𝐞𝐜𝐡𝐧𝐨 𝐈𝐧𝐝𝐢𝐚.
+### I am Kingshuk Roy, a second year B.Tech CSE (AI & ML) student at Techno India.
 
 ---
 <div align=center>
