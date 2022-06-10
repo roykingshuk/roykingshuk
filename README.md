@@ -1,4 +1,4 @@
-### Hi, I'm Kingshuk Roy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27px">  
+### Hi, I'm Kingshuk Roy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>  
 
 ---
 <div align=center>
