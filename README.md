@@ -26,13 +26,12 @@
 <img src="https://img.icons8.com/color/55/java-coffee-cup-logo--v1.png" title="Java">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
- 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=52 width=52>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=52 width=52>
 
   
  
 <!--
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
 <img src="https://avatars.githubusercontent.com/u/67109815?s=55&v=4" title="Tailwind CSS">
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" >
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
