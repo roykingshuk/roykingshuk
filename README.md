@@ -1,11 +1,9 @@
 ### Hi, I'm Kingshuk Roy<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30>  
 
 ---
-<div align=center>
-  
-<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479payps8c8spoxbwaw2hq2xq1h7kq4mnkmvrdqr1q&rid=giphy.gif&ct=g">
+<div align=center> 
+<img src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479payps8c8spoxbwaw2hq2xq1h7kq4mnkmvrdqr1q&rid=giphy.gif&ct=g" >
 </div>
-
 
 <!--<div align=center>
 ## ⚡ GitHub Stats :
@@ -45,6 +43,11 @@
 <img src = "https://img.icons8.com/fluency/49/node-js.png" title = "Node.js">
 <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" title="SQL" > -->
 </div>
+
+<!--<h3 align="left"> ⚡ LeetCode Stats :</h3>
+<div align="center">
+![LeetCode Stats](https://leetcode.card.workers.dev/kingshukroy?theme=auto&font=baloo&extension=null) 
+</div>-->
 
 ---
 
