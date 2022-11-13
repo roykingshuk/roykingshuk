@@ -16,7 +16,6 @@
 ## 🧰 Tech Stack : 
 <div align=center>  
 
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" >
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
@@ -34,7 +33,6 @@
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" >
 <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
 <img src="https://img.icons8.com/windows/2x/26e07f/django.png" title="Django" height=46 width=46 >
-<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
 <img src="https://img.icons8.com/fluent/2x/swift.png" title="Swift" height=52 width=51>
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" , title="PHP" height= 55 width=57>
 <img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" title="C#" height=46 width=46 > 
