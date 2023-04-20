@@ -22,16 +22,17 @@
 <img src="https://img.icons8.com/color/54/java-coffee-cup-logo--v1.png" title="Java">
 <img src= "https://img.icons8.com/fluency/47/r-project.png", title = "R">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
-<img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=52 width=52>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=52 width=52>
+<img src="https://img.icons8.com/color/512/html-5.png" title="HTML" height=50 width=50>
+<img src="https://img.icons8.com/color/512/css3.png" title="CSS" height=50 width=50>
+<img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
+<img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
+<img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" height=50 width=50>
 
   
  
 <!--
 <img src="https://avatars.githubusercontent.com/u/67109815?s=55&v=4" title="Tailwind CSS">
-<img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" >
-<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript" >
+
 <img src="https://img.icons8.com/windows/2x/26e07f/django.png" title="Django" height=46 width=46 >
 <img src="https://img.icons8.com/fluent/2x/swift.png" title="Swift" height=52 width=51>
 <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" , title="PHP" height= 55 width=57>
