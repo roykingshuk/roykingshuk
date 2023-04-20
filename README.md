@@ -28,25 +28,6 @@
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
 <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" height=50 width=50>
 
-  
- 
-<!--
-<img src="https://avatars.githubusercontent.com/u/67109815?s=55&v=4" title="Tailwind CSS">
-
-<img src="https://img.icons8.com/windows/2x/26e07f/django.png" title="Django" height=46 width=46 >
-<img src="https://img.icons8.com/fluent/2x/swift.png" title="Swift" height=52 width=51>
-<img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" , title="PHP" height= 55 width=57>
-<img src="https://img.icons8.com/color/2x/c-sharp-logo-2.png" title="C#" height=46 width=46 > 
-<img src="https://img.icons8.com/color/2x/kotlin.png" title="Kotlin" height=46 width=45>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" > 
-<img src = "https://img.icons8.com/fluency/49/node-js.png" title = "Node.js">
-<img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/external-sql-server-big-data-wanicon-lineal-color-wanicon.png" title="SQL" > -->
-</div>
-
-<!--<h3 align="left"> ⚡ LeetCode Stats :</h3>
-<div align="center">
-![LeetCode Stats](https://leetcode.card.workers.dev/kingshukroy?theme=auto&font=baloo&extension=null) 
-</div>-->
 
 ---
 
