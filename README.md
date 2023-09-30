@@ -21,7 +21,6 @@
 <img src="https://img.icons8.com/color/54/java-coffee-cup-logo--v1.png" title="Java">
 <img src= "https://img.icons8.com/fluency/47/r-project.png", title = "R">
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
-<img src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" title= "Jupyter" height = 50 width=50>
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <img src = "https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" title = "React" height=50 width=50>
 <img src="https://img.icons8.com/color/512/html-5.png" title="HTML" height=50 width=50>
