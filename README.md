@@ -35,10 +35,8 @@
 
 ## 📫 Connect with me :
 <div align=center>
-
-<a href="https://twitter.com/Kingshu26924326" alt="Kingshuk Roy | Twitter"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" ></a> &nbsp;
-<a href="https://www.instagram.com/kingshuk_darkgod/" alt="Kingshuk Roy | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 <a href="https://www.linkedin.com/in/kingshuk-roy-2001/" alt="Kingshuk Roy | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="https://www.instagram.com/kingshuk_darkgod/" alt="Kingshuk Roy | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 <a href="https://www.facebook.com/kingshuk.roy.7549/" alt="Kingshuk Roy | Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" ></a> &nbsp;
 </div>
   
