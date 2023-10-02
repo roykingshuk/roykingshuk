@@ -12,6 +12,9 @@
 </div>-->
 
 ---
+## ⚡ Souvenir : 
+ 
+[![An image of @kingshukroy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kingshukroy)](https://holopin.io/@kingshukroy)
 
 ## 🧰 Tech Stack : 
 <div align=center>  
