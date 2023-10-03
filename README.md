@@ -20,7 +20,8 @@
 ---
 ## 🧰 Tech Stack : 
 <div align=center>  
-
+ 
+<img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" title="Visual Studio Code" height=50 width=50>
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/54/java-coffee-cup-logo--v1.png" title="Java">
@@ -32,8 +33,6 @@
 <img src="https://img.icons8.com/color/512/css3.png" title="CSS" height=50 width=50>
 <img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
-
-
 
 
 ---
