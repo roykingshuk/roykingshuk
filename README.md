@@ -33,6 +33,7 @@
 <img src="https://img.icons8.com/color/512/css3.png" title="CSS" height=50 width=50>
 <img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
+<img src = "https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png"  title="Power BI" height=50 width=50>
 
 
 ---
