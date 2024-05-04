@@ -34,7 +34,7 @@
 <img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
 <!-- <img src = "https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png"  title="Power BI" height=50 width=50> -->
-<img src = "https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" title="Overleaf" height=50 width=50>
+<img src = "https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" title="Overleaf" height=50 width=50> </div>
 
 
 ---
@@ -44,6 +44,7 @@
 <a href="https://www.linkedin.com/in/kingshuk-roy-2001/" alt="Kingshuk Roy | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://www.instagram.com/kingshuk_darkgod/" alt="Kingshuk Roy | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 <a href="https://www.facebook.com/kingshuk.roy.7549/" alt="Kingshuk Roy | Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" ></a> &nbsp;
+<a href = "https://twitter.com/Kingshu19280755"><img src = "https://img.icons8.com/?size=48&id=5MQ0gPAYYx7a&format=png">
 </div>
   
 
