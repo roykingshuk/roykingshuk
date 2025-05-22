@@ -28,7 +28,8 @@
 <img src = "https://img.icons8.com/?size=512&id=13679&format=png" title="Java" height=50 width=50>
 <img src= "https://img.icons8.com/fluency/47/r-project.png", title = "R">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
-<img src = "https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" title = "React" height=50 width=50>
+<!-- <img src = "https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" title = "React" height=50 width=50> -->
+<img src = "https://img.icons8.com/?size=512&id=74402&format=png" title="MongoDB" height=50 width=50>
 <img src="https://img.icons8.com/color/512/html-5.png" title="HTML" height=50 width=50>
 <img src="https://img.icons8.com/color/512/css3.png" title="CSS" height=50 width=50>
 <img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
