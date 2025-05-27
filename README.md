@@ -35,8 +35,8 @@
 <img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
 <img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
 <img src = "https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png"  title="Power BI" height=50 width=50>
-<img src = "https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" title="Overleaf" height=50 width=50> </div>
-
+<!-- <img src = "https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" title="Overleaf" height=50 width=50> -->
+</div> 
 
 ---
 
