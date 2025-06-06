@@ -29,6 +29,7 @@
 <img src= "https://img.icons8.com/fluency/47/r-project.png", title = "R">
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 <!-- <img src = "https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" title = "React" height=50 width=50> -->
+<img src = "https://github.com/user-attachments/assets/83ea2b51-7218-41d2-b62b-ac7bf4c1153a" title= "PostgreSQL" height=50 width=50>
 <img src = "https://img.icons8.com/?size=512&id=74402&format=png" title="MongoDB" height=50 width=50>
 <img src="https://img.icons8.com/color/512/html-5.png" title="HTML" height=50 width=50>
 <img src="https://img.icons8.com/color/512/css3.png" title="CSS" height=50 width=50>
@@ -42,7 +43,7 @@
 
 ## 📫 Connect with me :
 <div align=center>
-<a href = "https://huggingface.co/kingshukroy"><img src = "https://img.icons8.com/?size=48&id=sop9ROXku5bb&format=png"></a> &nbsp;
+<!-- <a href = "https://huggingface.co/kingshukroy"><img src = "https://img.icons8.com/?size=48&id=sop9ROXku5bb&format=png"></a> &nbsp; -->
 <a href="https://www.linkedin.com/in/kingshuk-roy-2001/" alt="Kingshuk Roy | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
 <a href="https://www.instagram.com/roy_kingshuk01/" alt="Kingshuk Roy | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> &nbsp;
 <a href="https://www.facebook.com/kingshuk.roy.7549/" alt="Kingshuk Roy | Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" ></a> &nbsp;
