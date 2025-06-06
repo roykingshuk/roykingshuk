@@ -21,7 +21,7 @@
 ## 🧰 Tech Stack : 
 <div align=center>  
  
-<!--<img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" title="Visual Studio Code" height=50 width=50>-->
+<img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" title="Visual Studio Code" height=50 width=50>
 <img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
