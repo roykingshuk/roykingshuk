@@ -19,24 +19,10 @@
 
 ---
 ## 🧰 Tech Stack : 
-<div align=center>  
- 
-<img src="https://img.icons8.com/?size=512&id=9OGIyU8hrxW5&format=png" title="Visual Studio Code" height=50 width=50>
-<img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
-<img src = "https://img.icons8.com/?size=512&id=13679&format=png" title="Java" height=50 width=50>
-<img src= "https://img.icons8.com/fluency/47/r-project.png", title = "R">
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
-<!-- <img src = "https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png" title = "React" height=50 width=50> -->
-<img src = "https://github.com/user-attachments/assets/83ea2b51-7218-41d2-b62b-ac7bf4c1153a" title= "PostgreSQL" height=50 width=50>
-<img src = "https://img.icons8.com/?size=512&id=74402&format=png" title="MongoDB" height=50 width=50>
-<img src="https://img.icons8.com/color/512/html-5.png" title="HTML" height=50 width=50>
-<img src="https://img.icons8.com/color/512/css3.png" title="CSS" height=50 width=50>
-<img src="https://img.icons8.com/color/512/javascript.png" title="JS" height=50 width=50>
-<img src="https://img.icons8.com/color/50/000000/bootstrap.png" title="Bootstrap" height=50 width=50>
-<img src = "https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png"  title="Power BI" height=50 width=50>
-<!-- <img src = "https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" title="Overleaf" height=50 width=50> -->
+<div align=center> 
+<img src = "https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" title="Power BI" height=50 width=50></a> &nbsp;
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,r,git,github,postgres,mongodb,html,css,js,bootstrap,tailwind,mysql,figma,ubuntu,windows,vercel,heroku,latex"/></a> &nbsp;
+
 </div> 
 
 ---
