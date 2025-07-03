@@ -20,7 +20,6 @@
 ---
 ## 🧰 Tech Stack : 
 <div align=center> 
-<img src = "https://img.icons8.com/?size=512&id=3sGOUDo9nJ4k&format=png" title="Power BI" height=50 width=50></a> &nbsp;
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,r,git,github,postgres,mongodb,html,css,js,bootstrap,tailwind,mysql,figma,ubuntu,windows,vercel,heroku,latex"/></a> &nbsp;
 
 </div> 
