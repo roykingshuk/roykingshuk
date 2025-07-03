@@ -20,7 +20,7 @@
 ---
 ## 🧰 Tech Stack : 
 <div align=center> 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,r,git,github,postgres,mongodb,html,css,js,bootstrap,tailwind,mysql,figma,ubuntu,windows,vercel,heroku,latex"/></a> &nbsp;
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,c,cpp,py,java,r,git,github,postgres,mongodb,html,css,js,bootstrap,tailwind,mysql,figma,ubuntu,windows,vercel,notion,heroku,latex"/></a> &nbsp;
 
 </div> 
 
